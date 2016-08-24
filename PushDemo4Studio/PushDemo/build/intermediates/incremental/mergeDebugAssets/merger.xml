@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/wangxiaohu/Desktop/WH/HLX/hlx/PushDemo4Studio/PushDemo/assets"/><source path="/Users/wangxiaohu/Desktop/WH/HLX/hlx/PushDemo4Studio/PushDemo/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/wangxiaohu/Desktop/WH/HLX/hlx/PushDemo4Studio/PushDemo/src/debug/assets"/></dataSet></merger>
